@@ -10,10 +10,10 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
-[INR - ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N5LPGGGUNAPAS)
+[INR ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N5LPGGGUNAPAS)
 
 
-[USD - ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C45XTDG27L6UU)
+[USD  ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C45XTDG27L6UU)
 
 
 {% highlight ruby %}
