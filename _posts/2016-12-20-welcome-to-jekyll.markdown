@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome-1 to Jekyll!"
+title:  "Hey How are you"
 date:   2016-12-20 14:13:19 +0530
 categories: jekyll update
 ---
@@ -9,6 +9,12 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
+
+[INR - ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N5LPGGGUNAPAS)
+
+
+[USD - ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C45XTDG27L6UU)
+
 
 {% highlight ruby %}
 def print_hi(name)
