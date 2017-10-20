@@ -10,6 +10,9 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
+Non White Listed Accounts
+--------------------------
+
 [INR ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N5LPGGGUNAPAS)
 
 
