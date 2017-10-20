@@ -21,6 +21,10 @@ Non White Listed Accounts
 White listed Accounts
 ---------------------
 
+[INR ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U7SXBWL8F998Y)
+
+[USD ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JEG48M2RQD3EQ)
+
 
 {% highlight ruby %}
 def print_hi(name)
